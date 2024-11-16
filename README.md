@@ -19,8 +19,15 @@
 ##### •Preprocessed user input and generated accurate predictions with the trained model.
 # 4. Technologies and Tools Used
 #### Programming Language: Python
-#### Libraries
+#### Libraries:
 ##### •Pandas: For data manipulation and analysis.
 ##### •Scikit-learn: For text preprocessing, model building, and evaluation.
 ##### •Numpy: For efficient array operations.
 ##### •CountVectorizer: For converting text data into numerical format.
+#### Model: Multinomial Naive Bayes
+#### Environment: Jupyter Notebook
+# 5. Model Evaluation Metrics
+#### Accuracy: The proportion of correct predictions to total predictions, showcasing the model's effectiveness.
+#### Insights:
+##### •High accuracy was achieved, reflecting the model's ability to generalize well on unseen data.
+##### •The simple yet powerful Naive Bayes algorithm performed robustly due to the structured preprocessing pipeline.
